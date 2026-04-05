@@ -7,13 +7,17 @@ Research and development of executive AI systems for everyday life and industria
 
 Convergence - Human And Technology
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## About
 
 Convergence is engaged in the creation, development, and research of executive artificial intelligence systems across two distinct fields.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## Fields of Work
 
@@ -23,7 +27,9 @@ Convergence is engaged in the creation, development, and research of executive a
 | AI for Industry | Executive AI systems oriented toward the industrial world and its operational requirements |
 
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 Convergence - Human And Technology
 https://www.linkedin.com/company/convergence-organization
