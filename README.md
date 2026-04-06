@@ -1,3 +1,5 @@
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/applied-ai-research/main/cover_real-Applied_AI_R_HTa.jpg)
+
 <p align="center">
   <img src="https://github.com/convergence-human-technology/applied-ai-research/raw/main/cover-convergence-applied-a.png" alt="Research and development of executive AI systems for everyday life and industrial environments" width="100%" height="100%">
 </p>
